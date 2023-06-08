@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod symbolic_mode hello
+symbolic_mode hello
